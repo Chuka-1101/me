@@ -1,0 +1,156 @@
+css of previous one
+body {
+  background-color: red;
+}
+h1 {
+  color: #434343;
+}
+
+h3{
+  color: #434343;
+
+}
+
+p {
+  color: #434343;
+}
+
+hr {
+background-color: #aaaaaa;
+border-style: dotted;
+border-bottom-width: 5px;
+border-top-color: #aaaaaa;
+border-left-color: #aaaaaa;
+Border-right-color: #aaaaaa;
+border-bottom-color: #fbf7f7;
+height: 0px;
+width: 2.8%;
+}
+
+div {
+padding-left: 480px;
+background-color: white;
+
+}
+#freak {
+  width: 300px;
+
+}
+
+#heading {
+  color: #434343;
+}
+
+#zurag {
+  align-items: center;
+  float: right;
+  position: absolute;
+
+}
+
+#hhh {
+  color: #f8f8f8;
+  visibility: hidden;
+}
+#chuka-name {
+  width:400px;
+}
+
+#profile-image {
+  border-radius: 100%;
+  width: 100px;
+}
+
+#whatido {
+  color: #4AB29A;
+  position: relative;
+}
+
+
+
+
+/*
+
+
+<table>
+  <tr>
+
+    <td id="hhh">
+      hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+    </td>
+
+    <td> <img class="hero-octonaut" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-octonaut-8ece2623b8966578e2414c89b7b7190cb56339d1f8b7d260adf62110ce9f39c4.svg"></td>
+
+    <td>
+      <table cellspacing="10">
+        <th>
+          <h3><strong>Skills</strong></h3>
+        </th>
+        <tr>
+
+          <td>Web Development</td>
+          <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+          <td>Ios Development </td>
+          <td>⭐️⭐️⭐️⭐️</td>
+
+        </tr>
+        <tr>
+          <td>Ios Development </td>
+          <td>⭐️⭐️⭐️⭐️</td>
+
+        </tr>
+      </table>
+    </td>
+
+    <td>
+      <table cellspacing="10">
+        <th>
+          <h3><strong>Skills</strong></h3>
+        </th>
+        <tr>
+          <td>Web Development</td>
+          <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+          <td>Ios Development </td>
+          <td>⭐️⭐️⭐️⭐️</td>
+
+        </tr>
+        <tr>
+          <td>Ios Development </td>
+          <td>⭐️⭐️⭐️⭐️</td>
+
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+
+                          <td id="hhh">
+                            hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+                          </td>
+    <td>
+<img id="chuka-name"src="css/images/chuka1.png">
+<table>
+  <tr>
+    <td id="hhh">
+hhhhhhhhhhhhhhhhhh
+    </td>
+    <td>
+<p id="whatido"> A Web Developer</p>
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <img src="css/images/freak.png" alt="">
+  </tr>
+</table>
+
+*/
